@@ -10,3 +10,38 @@ Cambiar nombre de los router R1, R2 para poder identificar cual tiene la priorid
 -	Comandos para cambio de nombre
   
 <img width="638" height="557" alt="image" src="https://github.com/user-attachments/assets/2682c5f7-cf3b-4ba5-ab95-c83a1fd3b11b" />
+
+### Paso 2
+Crear la configuración de los segmentos virtuales y físicas al igual que asignar el protocolo HSRP a la interfaz que quiera usar para tal medio, como no se tiene un servidor que nos arroje un servicio de DHCP como en el ejercicio se configura una IP estática en la tarjeta física del equipo para poder realizar la simulación. 
+
+
+-	Tabla de configuración IP
+
+  <img width="385" height="121" alt="image" src="https://github.com/user-attachments/assets/e880ffac-724f-4843-81cd-79b8f85eea8f" />
+
+- Configuración Gateway virtual con protocolo HSRP prioridad 150
+
+<img width="681" height="671" alt="image" src="https://github.com/user-attachments/assets/52d91a38-80ec-4bba-9d27-aa4adb609912" />
+
+- Configuración Gateway virtual con protocolo HSRP prioridad 100
+
+  <img width="739" height="820" alt="image" src="https://github.com/user-attachments/assets/cfa3fafb-86d6-405b-acbe-4be96f944187" />
+
+  - Configruacion de puerto físico bajo el segmento 192.168.1.254
+
+  <img width="906" height="558" alt="image" src="https://github.com/user-attachments/assets/c50e0ebf-456d-45ec-96b1-9543f86b9863" />
+
+  - Protocolo HSRP funcionando donde el R1 estado en modo activo y el R2 estado modo standby
+
+    <img width="921" height="1105" alt="image" src="https://github.com/user-attachments/assets/97bfe6da-d9b3-4710-b9fb-fc79ea97ff6f" />
+
+  - Prueba de funcionamiento con el equipo local, que logre hacer ping a la red virtual.
+
+  <img width="921" height="859" alt="image" src="https://github.com/user-attachments/assets/59d61c45-31a7-46f5-91d6-d183b452d7aa" />
+
+
+
+    
+
+
+
