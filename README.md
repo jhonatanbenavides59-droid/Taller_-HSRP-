@@ -9,7 +9,8 @@ Cambiar nombre de los router R1, R2 para poder identificar cual tiene la priorid
 
 -	Comandos para cambio de nombre
   
-<img width="638" height="557" alt="image" src="https://github.com/user-attachments/assets/2682c5f7-cf3b-4ba5-ab95-c83a1fd3b11b" />
+<img width="655" height="561" alt="image" src="https://github.com/user-attachments/assets/117b68a4-a01a-40e3-8ff5-754238f1147c" />
+
 
 ### Paso 2
 Crear la configuración de los segmentos virtuales y físicas al igual que asignar el protocolo HSRP a la interfaz que quiera usar para tal medio, como no se tiene un servidor que nos arroje un servicio de DHCP como en el ejercicio se configura una IP estática en la tarjeta física del equipo para poder realizar la simulación. 
