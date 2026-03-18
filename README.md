@@ -43,7 +43,8 @@ Crear la configuración de los segmentos virtuales y físicas al igual que asign
 
 - Prueba de funcionamiento con el equipo local, que logre hacer ping a la red virtual.
 
-<img width="921" height="859" alt="image" src="https://github.com/user-attachments/assets/59d61c45-31a7-46f5-91d6-d183b452d7aa" />
+<img width="472" height="440" alt="image" src="https://github.com/user-attachments/assets/b755dcbf-157f-486d-9a35-4edf74de6cc9" />
+
 
 
 
