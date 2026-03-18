@@ -18,8 +18,9 @@ Crear la configuración de los segmentos virtuales y físicas al igual que asign
 
 -	Tabla de configuración IP
   
-  <img width="385" height="121" alt="image" src="https://github.com/user-attachments/assets/e880ffac-724f-4843-81cd-79b8f85eea8f" />
-  
+ <img width="677" height="674" alt="image" src="https://github.com/user-attachments/assets/5149aeef-dad6-4e86-93ba-551adbd67a8e" />
+
+
 
 - Configuración Gateway virtual con protocolo HSRP prioridad 150
 
