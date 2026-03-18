@@ -33,7 +33,7 @@ Crear la configuración de los segmentos virtuales y físicas al igual que asign
 
 - Configruacion de puerto físico bajo el segmento 192.168.1.254
 
-<img width="906" height="558" alt="image" src="https://github.com/user-attachments/assets/c50e0ebf-456d-45ec-96b1-9543f86b9863" />
+<img width="869" height="541" alt="image" src="https://github.com/user-attachments/assets/5e5aaffc-3cf5-4bf3-8fdf-70f964ac32c4" />
 
 
 - Protocolo HSRP funcionando donde el R1 estado en modo activo y el R2 estado modo standby
