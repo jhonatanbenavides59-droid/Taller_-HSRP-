@@ -18,18 +18,17 @@ Crear la configuración de los segmentos virtuales y físicas al igual que asign
 
 -	Tabla de configuración IP
   
- <img width="677" height="674" alt="image" src="https://github.com/user-attachments/assets/5149aeef-dad6-4e86-93ba-551adbd67a8e" />
-
+<img width="625" height="198" alt="image" src="https://github.com/user-attachments/assets/e021f612-27b6-4e27-aca6-167945eec6cd" />
 
 
 - Configuración Gateway virtual con protocolo HSRP prioridad 150
 
-<img width="681" height="671" alt="image" src="https://github.com/user-attachments/assets/52d91a38-80ec-4bba-9d27-aa4adb609912" />
+ <img width="677" height="674" alt="image" src="https://github.com/user-attachments/assets/5149aeef-dad6-4e86-93ba-551adbd67a8e" />
 
 
 - Configuración Gateway virtual con protocolo HSRP prioridad 100
 
-<img width="739" height="820" alt="image" src="https://github.com/user-attachments/assets/cfa3fafb-86d6-405b-acbe-4be96f944187" />
+<img width="725" height="442" alt="image" src="https://github.com/user-attachments/assets/efde7b6b-e69e-4145-b7a3-2c88ee6e83c8" />
 
 
 - Configruacion de puerto físico bajo el segmento 192.168.1.254
